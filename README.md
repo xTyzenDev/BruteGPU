@@ -8,7 +8,9 @@ This script consists of generating tokens extremely quickly via Nvidia technolog
 
 It also contains a Tokens checker as well as a file to download the NvidiaCudaToolKit to avoid searching. 
 
-# You also need to install [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/) to have the C/C++ compiler to use the kernel to communicate with the graphics card.
+# I strongly advise you to download the BruteGPU which is in the release to avoid any compilation problems
+
+You also need to install [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/) to have the C/C++ compiler to use the kernel to communicate with the graphics card.
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
 Ps: Yes I don't do things half-heartedly xD
