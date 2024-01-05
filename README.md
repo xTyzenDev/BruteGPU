@@ -4,9 +4,9 @@
 
 ### I WANT TO SPECIFY THAT THE SCRIPT IS ONLY COMPATIBLE WITH NVIDIA GPUs
 
-# This script consists of generating tokens extremely quickly via Nvidia technology, therefore thanks to the CUDA Core of your Nvidia GPU. 
+This script consists of generating tokens extremely quickly via Nvidia technology, therefore thanks to the CUDA Core of your Nvidia GPU. 
 
-# It also contains a Tokens checker as well as a file to download the NvidiaCudaToolKit to avoid searching. 
+It also contains a Tokens checker as well as a file to download the NvidiaCudaToolKit to avoid searching. 
 
 # You also need to install [Visual Studio](https://visualstudio.microsoft.com/fr/downloads/) to have the C/C++ compiler to use the kernel to communicate with the graphics card.
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
