@@ -17,5 +17,7 @@ Ps: Yes I don't do things half-heartedly xD
 
 ![alt tag](https://cdn.discordapp.com/attachments/1187872270618738849/1192871992311947294/Screenshot_22.png?ex=65aaa79d&is=6598329d&hm=4b298a89a635635d978043c24857faa514ce22f34695a9a0c95d5ef88dcf21b0&)
 
+### Please I wouldn't want you to steal the source code because this is the work of several hours of work. Please respect this.
+
 
 
