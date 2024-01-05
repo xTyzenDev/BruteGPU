@@ -8,7 +8,7 @@
 
 # It also contains a Tokens checker as well as a file to download the NvidiaCudaToolKit to avoid searching. 
 
-# You also need to install visual studio to have the C/C++ compiler to use the kernel to communicate with the graphics card.
+# You also need to install [VScode]visual studio(https://visualstudio.microsoft.com/fr/downloads/) to have the C/C++ compiler to use the kernel to communicate with the graphics card.
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)
 
 Ps: Yes I don't do things half-heartedly xD
